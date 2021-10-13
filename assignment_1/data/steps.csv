@@ -1,4 +1,4 @@
-acc_x,acc_y,acc_z,gravity_x,gravity_y,gravity_z,linear_acc_x,linear_acc_y,linear_acc_z,gyro_x,gyro_y,gyro_z,light,mag_field_x,mag_filed_y,mag_field_z,azimut,pitch,roll,proximity,sound_level,lat,lng,altitude,altitude_google,speed,location_accuracy,location_orientation,num_satellites,time_since_start
+acc_timestamp,acc_x,acc_y,acc_z,gyro_timestamp,gyro_x,gyro_y,gyro_z
 442096.899,0.135269165,-0.230178833,-0.927322388,442096.8739,-0.243200403,-0.177579049,-0.191616305
 442096.9339,0.160903931,-0.300918579,-0.968231201,442096.9089,-0.035422439,-0.133878972,-0.2812133
 442096.9689,0.138504028,-0.221572876,-1.023544312,442096.9439,-0.652795911,-0.32025604,-0.094709732
